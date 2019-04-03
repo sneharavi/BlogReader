@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
- * Created by Arunkumar on 12/6/2015.
+ * Created by Sneha on 12/6/2015.
  */
 public class BlogPostsList implements Serializable{
     ArrayList<BlogPostModel> PostList=new ArrayList<BlogPostModel>();

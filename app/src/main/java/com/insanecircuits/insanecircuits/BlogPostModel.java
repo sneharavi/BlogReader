@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.Set;
 
 /**
- * Created by Arunkumar on 10/16/2015.
+ * Created by Sneha on 10/16/2015.
  */
 public class  BlogPostModel implements Serializable{
     private String mPostTitle;
